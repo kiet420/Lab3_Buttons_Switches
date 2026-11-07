@@ -1,0 +1,6 @@
+fsm.c:14:13:enter_state	16	static
+fsm.c:36:13:enter_mode	16	static
+fsm.c:54:13:update_buffer	4	static
+fsm.c:65:13:apply_value	4	static
+fsm.c:88:6:fsm_init	8	static
+fsm.c:93:6:fsm_run	16	static

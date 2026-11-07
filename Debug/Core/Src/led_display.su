@@ -1,0 +1,7 @@
+led_display.c:11:13:write_seg_bit	16	static
+led_display.c:19:13:display7SEG1	24	static
+led_display.c:30:13:display7SEG2	24	static
+led_display.c:41:6:setRoad1	16	static
+led_display.c:48:6:setRoad2	16	static
+led_display.c:55:13:update7SEG	16	static
+led_display.c:65:6:scan_display	8	static
